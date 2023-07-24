@@ -92,8 +92,8 @@ class Contato
 		}
 		
 		Contato(){
-			this->email="kauelivio@gmail.com";
-			this->nome="kaue";
+			this->email="adielrpa@gmail.com";
+			this->nome="adiel";
 			this->telefone="912349876";		
 		}	
 	
